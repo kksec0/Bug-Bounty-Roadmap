@@ -1,7 +1,7 @@
 # My-Bug-Bounty-Roadmap
 🚀 A practical Bug Bounty Recon Roadmap with tools &amp; commands I use during reconnaissance and testing.
 
-🕵️ Bug Bounty Recon Roadmap
+🕵️ Bug Bounty Recon & Hunting Roadmap – by kksec0
 
-This repository contains my workflow, tools, and commands used during bug bounty hunting.
-The goal is to provide a step-by-step roadmap that helps security researchers structure their reconnaissance and testing process.
+This repository contains my bug bounty methodology, tools, and commands.
+The roadmap starts from subdomain enumeration and moves step by step towards deeper reconnaissance, exploitation, and vulnerability hunting.
