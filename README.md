@@ -1,4 +1,4 @@
-# My-Bug-Bounty-Roadmap
+# Bug-Bounty-Roadmap
 🚀 A practical Bug Bounty Recon Roadmap with tools &amp; commands I use during reconnaissance and testing.
 
 🕵️ Bug Bounty Recon & Hunting Roadmap – by kksec0
