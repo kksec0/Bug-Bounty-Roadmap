@@ -1,0 +1,8 @@
+go env GOPATH
+go env GOBIN
+
+
+ls $(go env GOPATH)/bin | grep Gxss
+
+echo $SHELL
+echo 'export PATH=$(go env GOPATH)/bin:$PATH' >> ~/.bashrc
